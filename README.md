@@ -1,2 +1,2 @@
 # QRGenerator
-A dotnet library for creating QR Codes. 
+A C# library for creating QR Codes. 
